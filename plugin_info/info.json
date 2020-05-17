@@ -1,0 +1,15 @@
+{
+	"id" : "somfy",
+	"name" : "somfy",
+	"description" : "Plugin somfy",
+	"licence" : "AGPL",
+	"author" : "mathman",
+	"require" : "3.2",
+	"category" : "automation protocol",
+	"hasDependency" : true,
+	"hasOwnDeamon" : true,
+	"changelog" : "https://github.com/mathman/somfy-jeedom",
+	"documentation" : "https://github.com/mathman/somfy-jeedom",
+    "language" : ["fr_FR"],
+	"compatibility" : ["miniplus","smart","rpi","docker","diy","mobile"]
+}
